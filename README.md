@@ -56,7 +56,7 @@ the input image.
 
 ## 🍓 Fruit Dataset Samples
 
-![Fruit Images](![Uploading Friut image.jfif…])
+![Fruit Images](images/fruits.png)
 
 ## 🎯 Project Purpose
 
@@ -66,7 +66,7 @@ The purpose of this project is to understand how artificial intelligence and mac
 
 The model was trained using image samples of seven different categories through Google Teachable Machine.
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Junaid Pervaiz
 
