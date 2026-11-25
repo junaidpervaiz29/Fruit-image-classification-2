@@ -56,7 +56,7 @@ the input image.
 
 ## 🍓 Fruit Dataset Samples
 
-![Fruit Images](images/fruits.png)
+![Fruit Images](Friut image.jfif)
 
 ## 🎯 Project Purpose
 
