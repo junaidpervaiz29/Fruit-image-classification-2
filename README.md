@@ -54,10 +54,6 @@ the input image.
 5. Evaluate Model
 6. Predict Results
 
-## 🍓 Fruit Dataset Samples
-
-![Fruit Images](Friut image.jfif)
-
 ## 🎯 Project Purpose
 
 The purpose of this project is to understand how artificial intelligence and machine learning can be used to recognize different objects through image classification.
