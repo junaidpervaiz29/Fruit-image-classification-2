@@ -38,6 +38,11 @@ the input image.
 3. 🤖 The model identifies the object.
 4. ✅ It predicts which of the six categories the object belongs to.
 
+# 📊 Model Results
+
+<img width="1916" height="1014" alt="image" src="https://github.com/user-attachments/assets/6f7954e9-5a1b-4e5c-8171-f0fe051c5656" />
+
+
 ## 🎯 Project Objectives
 
 - Classify different fruits.
